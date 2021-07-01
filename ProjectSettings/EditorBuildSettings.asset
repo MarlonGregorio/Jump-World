@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/The StartMenu.unity
+    guid: 5a7eeadd9af061e40a5b6c4ed971c40e
+  - enabled: 1
+    path: Assets/Scenes/The Mountains/Level 01.unity
+    guid: dc8e7a662f589ef448deb8d1aaa43e76
+  - enabled: 1
+    path: Assets/Scenes/The Mountains/Level 02.unity
+    guid: 1f70cbe13d858e347b08b704a51c0704
+  - enabled: 1
+    path: Assets/Scenes/The Mountains/Level 03.unity
+    guid: 7c4f795d4f4481d42901db07777eafb5
+  - enabled: 1
+    path: Assets/Scenes/The Mountains/Level 04.unity
+    guid: bc04c218313d8544381e35b1af9cdbd1
+  - enabled: 1
+    path: Assets/Scenes/The Mountains/Level 05.unity
+    guid: d3096513351609243ac3ecb8360f2871
+  - enabled: 1
+    path: Assets/Scenes/The Mountains/Level 06.unity
+    guid: ee2531cd11b2bec449afc6c424306bf5
+  - enabled: 1
+    path: Assets/Scenes/The Mountains/Level 07.unity
+    guid: 604fd3a35d34c46418521b4ce9ed8b2f
+  - enabled: 1
+    path: Assets/Scenes/The Mountains/Level 08.unity
+    guid: 65466e49d4ad2614292253f4cc41ed40
+  - enabled: 1
+    path: Assets/Scenes/The Mountains/Level 09.unity
+    guid: 27203f89e162b2f4d9321732c94a6862
+  - enabled: 1
+    path: Assets/Scenes/The Mountains/Level 10.unity
+    guid: aa285eb4c5679d6449f97e3c15bb11c6
