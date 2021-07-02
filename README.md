@@ -23,7 +23,7 @@ Oh no, they stole your pet cat! Time to chase down and fight the bad guys. Trave
 This is a sidescroller-type game made with the Unity3D game engine. I programmed this during my freshman year in college. Most of the assets were free to use, but some were purchased.  Only the first 10 levels are available in this version and the full version is not going to be released. This project was just for fun and it made me much more comfortable with programming.
 
 ## Android Installation Guide
-An already compiled android apk of Jump World is avaiable
+An already compiled android apk of Jump World is available.
 
 1. Download "Jump World.apk" from this repository.
 
